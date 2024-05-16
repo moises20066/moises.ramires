@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poetsen+One&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root {
+    --azul-ceu: #8ecae6ff;
+    --azul-verdeado-: #219ebcff;
+    --azul-oscuro: #023047ff;
+    --amarillo: #ffb703ff;
+    --naranja: #fb8500ff;
+    --fuente-titulo:"Poetsen One", sans-serif;
+    --fuente-texto:"Montserrat", sans-serif;
+}
+
+body{
+    background: var(--azul-oscuro);
+    color: var(--amarillo);
+    font-family: var(--fuente-texto);
+   
+}
+
+.titulo-principal{
+    font-family: var(--fuente-titulo);
+}
