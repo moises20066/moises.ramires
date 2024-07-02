@@ -6,13 +6,13 @@
 }
 
 :root {
-    --azul-ceu: #8ecae6ff;
-    --azul-verdeado-: #219ebcff;
-    --azul-oscuro: #023047ff;
-    --amarillo: #ffb703ff;
-    --naranja: #fb8500ff;
-    --fuente-titulo:"Poetsen One", sans-serif;
-    --fuente-texto:"Montserrat", sans-serif;
+    --cor-primaria: rgba(225, 24, 24, 0.938);
+    --cor-secundaria-: rgb(40, 53, 107);
+    --cor-terciaria: rgb(51, 37, 202);
+    --cor-quartenaria: #ffb703ff;
+    --cor-quintaria: rgb(21, 190, 86);
+    --cor-quinaria:"Poetsen One", sans-serif;
+    --cor-senaria:"Montserrat", sans-serif; 
 }
 
 body{
@@ -24,4 +24,12 @@ body{
 
 .titulo-principal{
     font-family: var(--fuente-titulo);
+
+
 }
+.principal-{
+
+
+ 
+.principal-capa
+} 
